@@ -20,7 +20,7 @@ body{
   border: 1px white solid;
  }
  
- .mori{
+ .aiguille{
    height: 90%;
    width: 5px;
    border-radius: 5px;
@@ -30,7 +30,7 @@ body{
    box-sizing: border-box;
  }
  
- .cont-mori{
+ .cont-aiguille{
    width: 100%;
    height: 60%;
    border-radius: 5px;
